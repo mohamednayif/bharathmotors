@@ -28,5 +28,5 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
   - ### Gixxer
   - ### Intruder
 
-![Bharath Motors](https://github.com/mohamednayif/bharathmotors/blob/master/Logo.PNG)
+![Bharath Motors](Logo.PNG)
 
