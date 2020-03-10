@@ -6,14 +6,15 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 # [Yamaha](https://yamaha.bharath-motors.com/)
 - ## Scooters
-  - Fascino 125 FI
-  - Ray ZR 125 FI
-  - Ray ZR Street Rally 125 FI
+  - ### Fascino 125 FI
+  - ### Ray ZR 125 FI
+  - ### Ray ZR Street Rally 125 FI
 - ## Motorcycles
-  - MT 15
-  - YZF R15 V3.0
-  - FZS FI
-  - FZ FI
+  - ### MT 15
+  - ### YZF R15 V3.0
+  - ### FZS FI
+  - ### FZ FI
+  
 # [Suzuki](https://suzuki.bharath-motors.com/)
 - ## Scooters
   - ### All New Access 125
@@ -27,36 +28,6 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
   - ### Gixxer
   - ### Intruder
 
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
 
 ### Small image
 
