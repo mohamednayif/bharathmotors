@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Bharath Motors
 
 You can use the [editor on GitHub](https://github.com/mohamednayif/bharathmotors/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -25,6 +25,25 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+### And a nested list:
+
+- level 1 item
+  - level 2 item
+  - level 2 item
+    - level 3 item
+    - level 3 item
+- level 1 item
+  - level 2 item
+  - level 2 item
+  - level 2 item
+- level 1 item
+  - level 2 item
+  - level 2 item
+- level 1 item
+
+### Small image
+
+![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
