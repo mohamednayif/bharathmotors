@@ -24,5 +24,5 @@
   - ### Gixxer
   - ### Intruder
 
-//![Bharath Motors](Logo.PNG)
+// ![Bharath Motors](Logo.PNG)
 
